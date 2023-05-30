@@ -26,3 +26,27 @@ This is a simple Tic Tac Toe game created using React and Vite.
 
    ```shell
    git clone https://github.com/silvicodes/tictactoe-game.git
+   
+2.  Navigate to the project's directory:
+
+    ```shell 
+     cd tictactoe-game
+     
+ 3.  Install the dependencies:
+
+    ```shell 
+     npm install
+     
+ 4.  Start the development server
+
+    ```shell 
+     npm run dev
+ 
+ 5. Open your browser and visit http://localhost:3000 to play the Tic Tac Toe game.
+
+### Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
+
+### License
+This project is licensed under the MIT License.
+
